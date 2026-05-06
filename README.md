@@ -20,7 +20,7 @@ DSC Securities – Da Nang Branch.
 
 ## Data
 - HPG historical price: 2,801 sessions (2015–2026)
-- Source: Vietstock.vn
+- Source: Investing.com
 
 ## Tech Stack
 - Python, TensorFlow/Keras, Pandas, NumPy
