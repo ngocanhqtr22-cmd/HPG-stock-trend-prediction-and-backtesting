@@ -11,12 +11,6 @@ DSC Securities – Da Nang Branch.
 | Sharpe Ratio | 2.15 | 0.40 |
 | Max Drawdown | -7.19% | -28.04% |
 
-## Equity Curve
-![Equity Curve](equity_curve.png)
-
-## Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
-
 ## Model Overview
 - Binary classification: predict if HPG closes higher next session
 - 16 technical features across 4 groups: return & momentum, 
