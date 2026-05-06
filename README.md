@@ -13,7 +13,7 @@ DSC Securities – Da Nang Branch.
 
 ## Model Overview
 - Binary classification: predict if HPG closes higher next session
-- 17 technical features across 4 groups: return & momentum, 
+- 16 technical features across 4 groups: return & momentum, 
   technical oscillators, price-to-trend ratios, volatility & money flow
 - Validation: Walk-Forward Validation (5 folds)
 - Backtesting: includes real transaction costs (0.25%)
